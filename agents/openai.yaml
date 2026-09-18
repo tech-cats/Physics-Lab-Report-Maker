@@ -1,0 +1,5 @@
+interface:
+  display_name: "大学物理实验报告"
+  short_description: "处理手写数据、图表、课后分析和完整实验报告 PDF"
+  default_prompt: "Use $physics-lab-report to turn this experiment folder into a concise post-lab report and assembled PDF."
+
